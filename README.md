@@ -3,8 +3,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CstoneKu)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{백준의 알고리즘 계정명})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mskoo32})](https://solved.ac/{mskoo32})
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
